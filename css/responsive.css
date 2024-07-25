@@ -443,14 +443,14 @@ Version:	1.1
     margin: 0;
   }
   .slicknav_nav li:hover a {
-    color: #1a76d1;
+    color: #ed2025;
   }
   .slicknav_nav li .dropdown li a {
     color: #2c2d3f;
     background: transparent;
   }
   .slicknav_nav li .dropdown li a:hover {
-    color: #1a76d1;
+    color: #ed2025;
   }
   .slicknav_nav li .slicknav_item {
     background: transparent;
@@ -463,7 +463,7 @@ Version:	1.1
     font-weight: 400;
   }
   .slicknav_menu .slicknav_icon-bar {
-    background-color: #1a76d1;
+    background-color: #ed2025;
     box-shadow: none;
     text-shadow: none;
   }
@@ -471,7 +471,7 @@ Version:	1.1
     color: #2c2d3f;
   }
   .slicknav_nav li:hover .slicknav_arrow {
-    color: #1a76d1;
+    color: #ed2025;
   }
   .slicknav_menu .slicknav_icon-bar {
     display: block;
