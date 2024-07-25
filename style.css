@@ -591,7 +591,7 @@ body {
 	Start Hero Area CSS
 =============================*/
 .slider .single-slider {
-  height: 600px;
+  height: 500px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -4173,3 +4173,16 @@ body {
 /*=========================
 	End Footer CSS
 ===========================*/
+/* Media Query for Small Screens */
+@media (max-width: 768px) {
+  .logo img {
+    width: 150px; /* Adjust the size as needed */
+  }
+}
+
+/* Media Query for Very Small Screens */
+@media (max-width: 480px) {
+  .logo img {
+    width: 120px; /* Adjust the size as needed */
+  }
+}
